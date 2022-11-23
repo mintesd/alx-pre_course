@@ -1,1 +1,2 @@
-CONFLICT (content)
+#!/bin/bash
+echo "ALX school"
